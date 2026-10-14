@@ -1,2 +1,0 @@
-# SPINROUTE
-Stationary Bike
